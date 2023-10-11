@@ -1,0 +1,14 @@
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\bin\Debug\net7.0\thirddayapplication.exe
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\bin\Debug\net7.0\thirddayapplication.deps.json
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\bin\Debug\net7.0\thirddayapplication.runtimeconfig.json
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\bin\Debug\net7.0\thirddayapplication.dll
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\bin\Debug\net7.0\thirddayapplication.pdb
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.AssemblyInfoInputs.cache
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.AssemblyInfo.cs
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.csproj.CoreCompileInputs.cache
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.dll
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\refint\thirddayapplication.dll
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.pdb
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\thirddayapplication.genruntimeconfig.cache
+C:\Users\ALEYNA\source\repos\uygulamadersleri\thirddayapplication\obj\Debug\net7.0\ref\thirddayapplication.dll
